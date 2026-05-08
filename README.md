@@ -8,7 +8,7 @@ A Node.js backend for a blogging platform built with Express.js and MongoDB.
 - **Blog Management** - Create, read, update, and delete blog posts
 - **File Uploads** - Upload images and files using multer
 - **Comments System** - Readers can comment on posts
-- **CORS Support** - Cross-origin requests enabled
+- **CORS Support** - Cross-origin requests enabled for two servers
 - **Secure Cookies** - Cookie-based session management
 - **Error Handling** - Comprehensive error handling and validation
 
